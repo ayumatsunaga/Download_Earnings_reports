@@ -1,0 +1,5 @@
+chromedriver
+anaconda-client==1.10.0
+chromedriver-binary==104.0.5112.29.0
+chromedriver-binary-auto==0.1.2
+selenium==4.1.3
